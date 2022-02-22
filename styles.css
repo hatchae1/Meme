@@ -1,0 +1,33 @@
+body {
+    background-image: url(Capture.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+.one {
+    font-size: 95px;
+    text-align: center;
+    color: white;
+    font-family: 'Chewy', cursive;
+
+}
+
+.two {
+    font-size: 95px;
+    text-align: center;
+    color: white;
+    font-family: 'Luckiest Guy', cursive;
+    
+}
+
+
+
+.three {
+    font-size: 200px;
+    text-align: center;
+    color: aquamarine;
+    font-family: 'Press Start 2P', cursive;
+    
+}
